@@ -1,0 +1,3 @@
+../Core/Src/logic.c:13:7:Logic_Init	1
+../Core/Src/logic.c:17:7:Logic_StartUART	1
+../Core/Src/logic.c:21:7:HAL_UART_RxCpltCallback	4
